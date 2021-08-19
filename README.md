@@ -1,10 +1,10 @@
-Hi, my name is Ivan Gadosi and I am a passionate self-taught python developer and a freelance software engineer from Slovakia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, my name is Ivan Gadosi and I am a passionate self-taught python developer and a freelance software engineer from Slovakia.
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? do reach, [email](mailto:ivan.gadosi@gmail.com)
-- 💬 Ask me about anything, I am happy to help
+- 💼 In case you offer any freelance work, [email](mailto:ivan.gadosi@gmail.com)
+- 💬 If you have any questions, feel free to contact me
 
 **List of programming languages and tools that I frequently use:**  
 
