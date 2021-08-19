@@ -20,4 +20,5 @@ Html/Css        5 hrs 13 mins
 ```
 
 📈 **My github rating:**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IvanGadosi&show_icons=true&theme=gotham" alt="IvanGadosi" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanGadosi&hide=contribs,prs)
+
